@@ -20,4 +20,5 @@
 #### conflict
 * this is from developer-1. I want to keep this line of code
 * I am developer-2, adding some features
+* I am developer-2, just now it is completed
 
