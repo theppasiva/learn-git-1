@@ -8,3 +8,4 @@
 #### rebase
 * rebase is another merge strategy
 * developing still
+* now development is completed
